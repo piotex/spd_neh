@@ -1,0 +1,13 @@
+﻿  lab3.cpp
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(75,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(128,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(140,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(148,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(159,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(189,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\lab3\lab3.cpp(225,23): warning C4018: '<': signed/unsigned mismatch
+  lab3.vcxproj -> C:\Users\pkubo\OneDrive\Dokumenty\GitHub\Politechnika\S.P.D\lab3\lab3\Debug\lab3.exe
